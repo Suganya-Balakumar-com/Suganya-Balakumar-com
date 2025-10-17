@@ -37,26 +37,19 @@ automating workflows, improving KPIs and turning complexity into clarity.
 <!--
 
 ## 📊 Coding Stats 
-![HackerRank](https://img.shields.io/badge/HackerRank-Gold%20Star-FAC600?style=flat&logo=hackerrank&logoColor=white) 🥇 SQL | 🥇 Python | 🥇 Problem Solving
+   ![HackerRank](https://img.shields.io/badge/HackerRank-Gold%20Star-FAC600?style=flat&logo=hackerrank&logoColor=white) 🥇 SQL | 🥇 Python | 🥇 Problem Solving
+   ![HackerRank SQL Gold](https://img.shields.io/badge/HackerRank-SQL%20Gold%20Star-2EC866?style=flat&logo=hackerrank&logoColor=white)
+   ![HackerRank Python Gold](https://img.shields.io/badge/HackerRank-Python%20Gold%20Star-2EC866?style=flat&logo=hackerrank&logoColor=white)
+   ![HackerRank Problem Solving Gold](https://img.shields.io/badge/HackerRank-Problem%20Solving%20Gold%20Star-2EC866?style=flat&logo=hackerrank&logoColor=white)
 
-
-
-
-
-![HackerRank SQL Gold](https://img.shields.io/badge/HackerRank-SQL%20Gold%20Star-2EC866?style=flat&logo=hackerrank&logoColor=white)
-![HackerRank Python Gold](https://img.shields.io/badge/HackerRank-Python%20Gold%20Star-2EC866?style=flat&logo=hackerrank&logoColor=white)
-![HackerRank Problem Solving Gold](https://img.shields.io/badge/HackerRank-Problem%20Solving%20Gold%20Star-2EC866?style=flat&logo=hackerrank&logoColor=white)
-
-## 📝 My Research
-
-**Suganya-Balakumar-com/Suganya-Balakumar-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Welcome to my GitHub profile! 
-I'm a passionate data science professional and researcher.
-
-Here are some ideas to get you started:
-
-For the header
-https://readme-typing-svg.herokuapp.com/demo/?color=2222F7&center=true&lines=%F0%9F%91%8B+Hi!+I%27m+Suganya+Balakumar
+## 📝 My Research 
  
+## For the header
+   [https://readme-typing-svg.herokuapp.com/demo/?color=2222F7&center=true&lines=%F0%9F%91%8B+Hi!+I%27m+Suganya+Balakumar
+   ](https://readme-typing-svg.herokuapp.com/demo/?color=2222F7&center=true&lines=%F0%9F%91%8B+Hi!+I%27m+Suganya+Balakumar.++;Welcome+to+my+GitHub+profile!++)
+
+
+## For leetcode:
+https://camo.githubusercontent.com/b5f3e9d8eb1a386d88864ac5c801c7100af16e6ff24e02b26677bffba8f01212/68747470733a2f2f6c656574636f64652d62616467652d73686f77636173652e76657263656c2e6170702f6170693f757365726e616d653d72786869747377616d69267468656d653d6d6f6e6f6b616926616e696d617465643d74727565
+       
 -->
