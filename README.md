@@ -8,10 +8,10 @@ automating workflows, improving KPIs and turning complexity into clarity.
 
 
 ## :seedling: My journey
-- Process Mining Advisor @ Shell (Oct 2024 - till date) 
-- Data Scientist @ Shell (Jun 2022 - Sep 2024) 
-- Visiting Professor @ IIT Madras (May 2022 - Dec 2022) 
-- Assistant Professor @ OP Jindal Global University (Jun 2020 - May 2022)
+- Process Mining Advisor, Shell (Oct 2024 - till date) 
+- Data Scientist, Shell (Jun 2022 - Sep 2024) 
+- Visiting Professor, IIT Madras (May 2022 - Dec 2022) 
+- Assistant Professor, OP Jindal Global University (Jun 2020 - May 2022)
 - 🎓 PhD in Economics, IIM Indore (2015–2021)
 
 ## :briefcase: Recent Highlights
