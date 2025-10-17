@@ -11,7 +11,8 @@ automating workflows, improving KPIs and turning complexity into clarity.
 - Process Mining Advisor @ Shell (Oct 2024 - till date) 
 - Data Scientist @ Shell (Jun 2022 - Sep 2024) 
 - Visiting Professor @ IIT Madras (May 2022 - Dec 2022) 
-- Assistant Professor @ OP Jindal Global University (Jun 2020 - May 2022)  
+- Assistant Professor @ OP Jindal Global University (Jun 2020 - May 2022)
+- 🎓 PhD in Economics, IIM Indore (2015–2021)
 
 ## :briefcase: Recent Highlights
 - 97.43 Percentile scorer at TalentSprint National AI Olympiad by Accenture (Sep 2025) [🔗](https://dashboard.talentsprint.com/naio/report/NAIO-S1-1760088016292-2504402.pdf)
