@@ -34,8 +34,8 @@ automating workflows, improving KPIs and turning complexity into clarity.
 
 
 ## Projects on Git hub
-### 1. [Employee Attrition Analysis - Machine Learning with Logistic Regression] (https://github.com/Suganya-Balakumar-com/Employee-Attrition)
-
+### [🔗 1. Employee Attrition Analysis - Machine Learning with Logistic Regression]( https://github.com/Suganya-Balakumar-com/Employee-Attrition) 
+[🔗]
 <!--
 
 ## 📊 Coding Stats 
